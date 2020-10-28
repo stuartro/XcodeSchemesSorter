@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>dict.xcscheme_^#shared#^_</key><dict><key>orderHint</key><integer>0</integer></dict>
+      <key>dict__release.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>1</integer></dict>
+		<key>dict book adjectives.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>2</integer></dict>
+		<key>dict book nouns.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>3</integer></dict>
+		<key>dict book verbs.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>4</integer></dict>
+		<key>dict export englishToHebrewXML.xcscheme</key><dict><key>orderHint</key><integer>5</integer></dict>
+		<key>dict export shoshanWithEnglishXML.xcscheme</key><dict><key>orderHint</key><integer>6</integer></dict>
+      <key>dict export shoshanWithEnglishHTML.xcscheme</key><dict><key>orderHint</key><integer>7</integer></dict>
+		<key>dict load handEditedMeanings.xcscheme</key><dict><key>orderHint</key><integer>8</integer></dict>
+		<key>dict load mila.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>9</integer></dict>
+		<key>dict load morfixSearchResults.xcscheme</key><dict><key>orderHint</key><integer>10</integer></dict>
+		<key>dict load pealimForms.xcscheme</key><dict><key>isShown</key><true/><key>orderHint</key><integer>11</integer></dict>
+		<key>dict load shoshan.xcscheme</key><dict><key>isShown</key><true/><key>orderHint</key><integer>12</integer></dict>
+      <key>dict stats basic.xcscheme</key><dict><key>isShown</key><false/><key>orderHint</key><integer>13</integer></dict>
+		<key>dict util generateHandEditEnglish.xcscheme</key><dict><key>orderHint</key><integer>14</integer></dict>
+		<key>dict wire entriesToRootsViaMin.xcscheme</key><dict><key>orderHint</key><integer>15</integer></dict>
+		<key>dict wire formsToEntries.xcscheme</key><dict><key>isShown</key><true/><key>orderHint</key><integer>16</integer></dict>
+		<key>dict wire meaningsToEntries.xcscheme</key><dict><key>isShown</key><true/><key>orderHint</key><integer>17</integer></dict>
+		<key>DictDownloader.xcscheme_^#shared#^_</key><dict><key>orderHint</key><integer>18</integer></dict>
+		<key>DictLoader.xcscheme_^#shared#^_</key><dict><key>orderHint</key><integer>19</integer></dict>
+		<key>DictLoaderLib.xcscheme_^#shared#^_</key><dict><key>orderHint</key><integer>20</integer></dict>
+		<key>DictLoaderLibTests.xcscheme_^#shared#^_</key><dict><key>isShown</key><false/><key>orderHint</key><integer>21</integer></dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1742903424F2768000B49BEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1787D7E924E8B8E7002198E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1787D87824E8C3EB002198E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1787D88024E8C3EC002198E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>17D6E19C24FB6BE2003E6CF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
